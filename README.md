@@ -10,6 +10,7 @@
 
 * ### Mentoria (Live) - Aula Inaugural - Santander Bootcamp Fullstack Developer
 
+
 ## Módulo I - Conteúdo de Abertura
 
 * ### Introdução à Programação e Pensamento Computacional
@@ -17,6 +18,7 @@
 * ### Introdução ao Git e ao GitHub
 
 * ### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
 
 ## Módulo II - HTML/CSS3/JS
 
@@ -54,6 +56,7 @@
 
 * ### Introdução Prática ao TypeScript
 
+
 ## Módulo III - Angular
 
 * ### Introdução ao Angular 8
@@ -82,6 +85,7 @@
 * ### Desafio de projeto
 * ### Como criar um front-end de um e-commerce utilizando Angular
 
+
 ## Módulo IV - Java
 
 * ### Dominando IDEs Java
@@ -107,6 +111,7 @@
 
 * ### Desafio de projeto
 * ### Criando um Banco Digital com Java e Orientação a Objetos
+
 
 ## Módulo V - Spring Framework
 
