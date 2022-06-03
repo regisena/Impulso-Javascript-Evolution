@@ -1,9 +1,14 @@
 # Santander-Bootcamp-Fullstack-Developer
 
 ## Módulo 0 - Prepare-se para a Jornada
-teste1
-teste2
-teste3
+
+### Conheça as Oportunidades da DIO
+
+### Seja Protagonista Neste Bootcamp
+
+### Boas-vindas ao Santander Bootcamp Fullstack Developer
+
+### Mentoria (Live) - Aula Inaugural - Santander Bootcamp Fullstack Developer
 
 ## Módulo I - Conteúdo de Abertura
 
