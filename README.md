@@ -29,81 +29,98 @@
 * ### Introdução ao JavaScript
 
 * ### Sintaxe e Operadores
-0%
- Básico
-肋 2 hrs
-Imagem do bootcamp Variáveis e Tipos
-Curso
+
 * ### Variáveis e Tipos
-0%
- Básico
-肋 3 hrs
-Imagem do bootcamp Funções
-Curso
+
 * ### Funções
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Coleções
-Curso
+
 * ### Coleções
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Map, Filter e Reduce
-Curso
+
 * ### Map, Filter e Reduce
-0%
- Básico
-肋 2 hrs
-Imagem do bootcamp Debugging e Error Handling
-Curso
+
 * ### Debugging e Error Handling
-0%
- Básico
-肋 2 hrs
-Imagem do bootcamp Javascript Assíncrono
-Curso
+
 * ### Javascript Assíncrono
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Orientação a objetos
-Curso
+
 * ### Orientação a objetos
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Desafios Iniciais Js - Santander Fullstack Develpoer
-Desafio de código
+
 * ### Desafios Iniciais Js - Santander Fullstack Developer
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Trabalhando com Módulos em JavaScript
-Curso
+
 * ### Trabalhando com Módulos em JavaScript
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Manipulando a D.O.M. com JavaScript
-Curso
+
 * ### Manipulando a D.O.M. com JavaScript
-0%
- Básico
-肋 1 hrs
-Imagem do bootcamp Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
-Curso
+
 * ### Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
-0%
- Intermediário
-肋 2 hrs
-Imagem do bootcamp Introdução Prática ao TypeScript
-Desafio de projeto
+
 * ### Introdução Prática ao TypeScript
 
 ## Módulo III - Angular
 
+* ### Introdução ao Angular 8
+
+* ### Trabalhando com Páginas SPA com Angular
+
+* ### A arquitetura de componentes e a gestão da complexidade no front-end
+
+* ### Instalando e Preparando o Ambiente Angular
+
+* ### Explorando Diretivas com Angular
+
+* ### Implementando Serviços e Injeção de Dependências com Angular
+
+* ### Introdução a Serviços Assíncronos no Angular
+
+* ### O Poder do Data Binding no Angular
+
+* ### Trabalhando com Componentes em Angular
+
+* ### Criação de Pipes com Angular
+
+* ### Desafio de código
+* ### Desafios Intermediários Js - Santander Fullstack Developer
+
+* ### Desafio de projeto
+* ### Como criar um front-end de um e-commerce utilizando Angular
+
 ## Módulo IV - Java
 
+* ### Dominando IDEs Java
+
+* ### Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+
+* ### Entendendo Métodos Java
+
+* ### Lógica Condicional e Controle de Fluxos em Java
+
+* ### Estruturas de Repetição e Arrays em Java
+
+* ### Trabalhando com Collections Java
+
+* ### Tratamento de Exceções em Java
+
+* ### Debugging Java
+
+* ### Programação Orientada a Objetos
+
+* ### Desafio de código
+* ### Desafios Iniciais Java - Santander Fullstack Developer
+
+* ### Desafio de projeto
+* ### Criando um Banco Digital com Java e Orientação a Objetos
+
 ## Módulo V - Spring Framework
+
+* ### Conhecendo os Principais Protocolos de Comunicação da Internet
+
+* ### Introdução ao framework Spring Boot
+
+* ### Imersão no Spring Framework com Spring Boot
+
+* ### Adicionando Segurança a uma API REST com Spring Security
+
+* ### Desafio de código
+* ### Desafios Intermediários Java - Santander Fullstack Developer
+
+* ### Desafio de projeto
+* ### Explorando Padrões de Projetos na Prática com Java
+
