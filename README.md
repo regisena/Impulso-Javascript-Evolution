@@ -2,9 +2,9 @@
 
 ## Módulo 0 - Prepare-se para a Jornada
 
-   ### Conheça as Oportunidades da DIO
+### * Conheça as Oportunidades da DIO
 
-### Seja Protagonista Neste Bootcamp
+* ### Seja Protagonista Neste Bootcamp
 
 ### Boas-vindas ao Santander Bootcamp Fullstack Developer
 
