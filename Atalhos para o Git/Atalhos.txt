@@ -15,4 +15,5 @@ criando os atalhos
 	c = !git add --all && git commit -m 
 	s = !git status -s
 	l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
-	p = !git push origin develop
+	ps = !git push origin develop
+	pl = !git pull origin develop
