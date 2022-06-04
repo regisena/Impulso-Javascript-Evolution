@@ -17,3 +17,10 @@ criando os atalhos
 	l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
 	ps = !git push origin develop
 	pl = !git pull origin develop
+
+
+# Desafio de projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)
