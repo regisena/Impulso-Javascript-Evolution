@@ -1,5 +1,9 @@
 # Santander-Bootcamp-Fullstack-Developer
 
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)
+
+
 ## Módulo 0 - Prepare-se para a Jornada
 
 * ### Conheça as Oportunidades da DIO
