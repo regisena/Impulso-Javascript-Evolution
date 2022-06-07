@@ -100,9 +100,9 @@ public class OperadoresAritmeticos {
 		int j = k--;
 		int x = k;
 
-		System.out.println("i:" + i);
-		System.out.println("j:" + j);
-		System.out.println("x:" + x);
+		System.out.println("i: " + i);
+		System.out.println("j: " + j);
+		System.out.println("x: " + x);
 
 	}
 
