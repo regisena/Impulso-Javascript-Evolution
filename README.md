@@ -6,7 +6,6 @@
 
 |**Módulo 0 - Prepare-se para a Jornada**|
 |---|
-|                                                                                       |
 | Conheça as Oportunidades da DIO                                    :heavy_check_mark: |
 |                                                                                       |
 | Seja Protagonista Neste Bootcamp                                   :heavy_check_mark: |
