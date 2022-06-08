@@ -4,7 +4,7 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
 
-|**Módulo 0 - Prepare-se para a Jornada**                                              |
+|**Módulo 0 - Prepare-se para a Jornada**                                               |
 |---------------------------------------------------------------------------------------|
 |                                                                                       |
 | Conheça as Oportunidades da DIO                                    :heavy_check_mark: |
