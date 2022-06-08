@@ -12,8 +12,7 @@
 ||
 | Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
-| Mentoria (Live)
-Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
+| Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 |---|
 |**Módulo I - Princípios de Desenvolvimento de Software**|
 |---|
@@ -21,7 +20,7 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
 ||
-|Desafio de projeto:heavy_check_mark: |
+|Desafio de projeto:point_down: :heavy_check_mark: |
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso |
 |---|
 |**Módulo II - Fundamentos Web com HTML e CSS**|
@@ -32,7 +31,7 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Posicionando elementos com Flexbox em CSS|
 ||
-|Desafio de projeto|
+|Desafio de projeto:point_down:|
 |Recriando a página inicial do Instagram|
 |---|
 |**Módulo III - Dominando a Linguagem de Programação JavaScript**|
@@ -51,7 +50,7 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Debugging e Error Handling|
 ||
-|Desafio de código|
+|Desafio de código:point_down:|
 |Desafios Iniciais Js - Impulso JavaScript Evolution|
 ||
 |Manipulando a D.O.M. com JavaScript|
@@ -62,10 +61,10 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces|
 ||
-|Desafio de código|
+|Desafio de código:point_down:|
 |Desafios intermediários Js - Impulso JavaScript Evolution|
 ||
-|Desafio de projeto|
+|Desafio de projeto:point_down:|
 |Introdução Prática ao TypeScript|
 |---|
 |**Módulo IV - Front-end: Desenvolvimento Web com React**|
@@ -82,7 +81,7 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Práticas avançadas em projetos com ReactJS|
 ||
-|Desafio de projeto|
+|Desafio de projeto:point_down:|
 |Criando um front-end totalmente componentizado na prática com ReactJS|
 |---|
 |**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**|
@@ -109,6 +108,6 @@ Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |Criando uma API REST com Node.js e TypeORM|
 ||
-|Desafio de projeto|
+|Desafio de projeto:point_down:|
 |Integrando um Backend em Node.js com um Frontend em React para um E-commerce|
 |----------------------------------------------|
