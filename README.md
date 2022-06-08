@@ -5,6 +5,7 @@
 
 
 |:boom:**Módulo 0 - Prepare-se para a Jornada**:boom:|
+||
 |:---:|
 | Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
@@ -15,6 +16,7 @@
 | Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 |:boom:**Módulo I - Princípios de Desenvolvimento de Software**:boom:|
+||
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
@@ -23,6 +25,7 @@
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark: |
 ||
 |:boom:**Módulo II - Fundamentos Web com HTML e CSS**:boom:|
+||
 |Primeiros passos para desenvolvimento web |
 ||
 |Introdução a criação de websites com HTML5 e CSS3:heavy_check_mark: |
@@ -33,6 +36,7 @@
 |Recriando a página inicial do Instagram|
 ||
 |:boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**:boom:|
+||
 |IDE Instalação e Configuração (Visual Studio Code)|
 ||
 |Introdução ao JavaScript|
@@ -65,6 +69,7 @@
 |Introdução Prática ao TypeScript|
 ||
 |:boom:**Módulo IV - Front-end: Desenvolvimento Web com React**:boom:|
+||
 |Conhecendo os Principais Protocolos de Comunicação da Internet|
 ||
 |Introdução ao ReactJS|
@@ -81,11 +86,13 @@
 |Criando um front-end totalmente componentizado na prática com ReactJS|
 ||
 |:boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**:boom:|
+||
 |Conceitos e melhores práticas com bancos de dados PostgreSQL|
 ||
 |Introdução ao MongoDB e Bancos de Dados NoSQL|
 ||
 |:boom:**Módulo VI - Back-end: Criando API com Node.Js**:boom:|
+||
 |Instalando e Configurando seu Ambiente Node.js|
 ||
 |Introdução ao Node.js com JavaScript|
