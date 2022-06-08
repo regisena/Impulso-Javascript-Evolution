@@ -4,27 +4,27 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
 
-| Módulo 0 - Prepare-se para a Jornada                                                  |
+|**Módulo 0 - Prepare-se para a Jornada**                                              |
 |---------------------------------------------------------------------------------------|
 |                                                                                       |
 | Conheça as Oportunidades da DIO                                    :heavy_check_mark: |
-|                                                                    :heavy_check_mark: |
+|                                                                                       |
 | Seja Protagonista Neste Bootcamp                                   :heavy_check_mark: |
 |                                                                                       |
-| Boas-vindas ao Impulso Javascript Evolution                                           |
+| Boas-vindas ao Impulso Javascript Evolution                        :heavy_check_mark: |
 |                                                                                       |
 | Mentoria (Live)                                                                       |
 | Mentoria #1: Impulso Javascript Evolution | Aula Inaugural                            |
 |                                                                                       |
-## Módulo I - Princípios de Desenvolvimento de Software
-
-* ### Introdução à Programação e Pensamento Computacional
-
-* ### Introdução ao Git e ao GitHub
-
-* ### Desafio de projeto
-* ### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-
+|**Módulo I - Princípios de Desenvolvimento de Software**                               |
+|                                                                                       |
+|Introdução à Programação e Pensamento Computacional                                    |
+|                                                                                       |
+|Introdução ao Git e ao GitHub                                                          |
+|                                                                                       |
+|Desafio de projeto                                                                     |
+|Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso             |
+|                                                                                       |
 ## Módulo II - Fundamentos Web com HTML e CSS
 
 * ### Primeiros passos para desenvolvimento web
