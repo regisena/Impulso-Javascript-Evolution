@@ -36,10 +36,10 @@
 |Desafio de projeto|
 |Recriando a página inicial do Instagram|
 |                                                                                       |
-## Módulo III - Dominando a Linguagem de Programação JavaScript
-
-* ### IDE Instalação e Configuração (Visual Studio Code)
-
+|**Módulo III - Dominando a Linguagem de Programação JavaScript**|
+||
+|IDE Instalação e Configuração (Visual Studio Code)|
+||
 * ### Introdução ao JavaScript
 
 * ### Sintaxe Básica em JavaScript
