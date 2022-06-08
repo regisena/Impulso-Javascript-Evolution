@@ -12,8 +12,8 @@
 ||
 | Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
-| Mentoria (Live)|
-| Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
+| Mentoria (Live)
+Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 |---|
 |**Módulo I - Princípios de Desenvolvimento de Software**|
 |---|
@@ -28,7 +28,7 @@
 |---|                                                  
 |Primeiros passos para desenvolvimento web |
 ||
-|Introdução a criação de websites com HTML5 e CSS3 |
+|Introdução a criação de websites com HTML5 e CSS3:heavy_check_mark: |
 ||
 |Posicionando elementos com Flexbox em CSS|
 ||
