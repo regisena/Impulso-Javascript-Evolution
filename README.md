@@ -4,7 +4,7 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
 
-|**Módulo 0 - Prepare-se para a Jornada**|
+|:boom:**Módulo 0 - Prepare-se para a Jornada**|
 |---|
 | Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
@@ -14,7 +14,7 @@
 ||
 | Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 |---|
-|**Módulo I - Princípios de Desenvolvimento de Software**|
+|:boom:**Módulo I - Princípios de Desenvolvimento de Software**:boom:|
 |---|
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
 ||
@@ -23,7 +23,7 @@
 |Desafio de projeto:point_down:|
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark: |
 |---|
-|**Módulo II - Fundamentos Web com HTML e CSS**|
+|:boom:**Módulo II - Fundamentos Web com HTML e CSS**:boom:|
 |---|                                                  
 |Primeiros passos para desenvolvimento web |
 ||
@@ -34,7 +34,7 @@
 |Desafio de projeto:point_down:|
 |Recriando a página inicial do Instagram|
 |---|
-|**Módulo III - Dominando a Linguagem de Programação JavaScript**|
+|:boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**:boom:|
 |---|
 |IDE Instalação e Configuração (Visual Studio Code)|
 ||
@@ -67,7 +67,7 @@
 |Desafio de projeto:point_down:|
 |Introdução Prática ao TypeScript|
 |---|
-|**Módulo IV - Front-end: Desenvolvimento Web com React**|
+|:boom:**Módulo IV - Front-end: Desenvolvimento Web com React**:boom:|
 |---|
 |Conhecendo os Principais Protocolos de Comunicação da Internet|
 ||
@@ -84,13 +84,13 @@
 |Desafio de projeto:point_down:|
 |Criando um front-end totalmente componentizado na prática com ReactJS|
 |---|
-|**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**|
+|:boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**:boom:|
 |---|
 |Conceitos e melhores práticas com bancos de dados PostgreSQL|
 ||
 |Introdução ao MongoDB e Bancos de Dados NoSQL|
 |---|
-|**Módulo VI - Back-end: Criando API com Node.Js**|
+|:boom:**Módulo VI - Back-end: Criando API com Node.Js**:boom:|
 |---|
 |Instalando e Configurando seu Ambiente Node.js|
 ||
