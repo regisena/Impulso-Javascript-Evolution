@@ -19,11 +19,11 @@
 |**Módulo I - Princípios de Desenvolvimento de Software**                                               |
 |**Módulo I - Princípios de Desenvolvimento de Software**                               |
 |                                                                                       |
-|Introdução à Programação e Pensamento Computacional                                    |
+|Introdução à Programação e Pensamento Computacional                 :heavy_check_mark: |
 |                                                                                       |
-|Introdução ao Git e ao GitHub                                                          |
+|Introdução ao Git e ao GitHub                                       :heavy_check_mark: |
 |                                                                                       |
-|Desafio de projeto                                                                     |
+|Desafio de projeto                                                  :heavy_check_mark: |
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso             |
 |                                                                                       |
 ## Módulo II - Fundamentos Web com HTML e CSS
