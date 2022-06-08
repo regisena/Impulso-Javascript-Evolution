@@ -17,7 +17,7 @@
 | Mentoria #1: Impulso Javascript Evolution | Aula Inaugural                            |
 |                                                                                       |
 |**Módulo I - Princípios de Desenvolvimento de Software**                               |
-|                                                                                       |
+|---------------------------------------------------------------------------------------|
 |Introdução à Programação e Pensamento Computacional                 :heavy_check_mark: |
 |                                                                                       |
 |Introdução ao Git e ao GitHub                                       :heavy_check_mark: |
@@ -26,7 +26,7 @@
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso             |
 |                                                                                       |
 |**Módulo II - Fundamentos Web com HTML e CSS**                                         |
-|                                                                                       |                                                   
+|---------------------------------------------------------------------------------------|                                                   
 |Primeiros passos para desenvolvimento web |
 |                                                                                       |
 |Introdução a criação de websites com HTML5 e CSS3 |
@@ -37,7 +37,7 @@
 |Recriando a página inicial do Instagram|
 |                                                                                       |
 |**Módulo III - Dominando a Linguagem de Programação JavaScript**|
-||
+|---------------------------------------------------------------------------------------|
 |IDE Instalação e Configuração (Visual Studio Code)|
 ||
 |Introdução ao JavaScript|
@@ -69,8 +69,8 @@
 |Desafio de projeto|
 |Introdução Prática ao TypeScript|
 ||
-|   **Módulo IV - Front-end: Desenvolvimento Web com React|
-|
+|**Módulo IV - Front-end: Desenvolvimento Web com React**|
+|---------------------------------------------------------------------------------------|
 |Conhecendo os Principais Protocolos de Comunicação da Internet|
 ||
 |Introdução ao ReactJS|
@@ -86,14 +86,14 @@
 |Desafio de projeto|
 |Criando um front-end totalmente componentizado na prática com ReactJS|
 ||
-|**## Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)|
-||
+|**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**|
+|---------------------------------------------------------------------------------------|
 |Conceitos e melhores práticas com bancos de dados PostgreSQL|
 ||
 |Introdução ao MongoDB e Bancos de Dados NoSQL|
 ||
-|**Módulo VI - Back-end: Criando API com Node.Js|
-||
+|**Módulo VI - Back-end: Criando API com Node.Js**|
+|---------------------------------------------------------------------------------------|
 |Instalando e Configurando seu Ambiente Node.js|
 ||
 |Introdução ao Node.js com JavaScript|
