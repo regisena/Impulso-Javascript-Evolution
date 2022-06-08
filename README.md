@@ -4,17 +4,17 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
 
-| ## Módulo 0 - Prepare-se para a Jornada                                               |
+| Módulo 0 - Prepare-se para a Jornada                                                  |
 |---------------------------------------------------------------------------------------|
 |                                                                                       |
-|* ### Conheça as Oportunidades da DIO                                                  |
+| Conheça as Oportunidades da DIO                                    :heavy_check_mark: |
+|                                                                    :heavy_check_mark: |
+| Seja Protagonista Neste Bootcamp                                   :heavy_check_mark: |
 |                                                                                       |
-|* ### Seja Protagonista Neste Bootcamp                                                 |
+| Boas-vindas ao Impulso Javascript Evolution                                           |
 |                                                                                       |
-|* ### Boas-vindas ao Impulso Javascript Evolution                                      |
-|                                                                                       |
-|* ###Mentoria (Live)                                                                   |
-|* ###Mentoria #1: Impulso Javascript Evolution | Aula Inaugural                        |
+| Mentoria (Live)                                                                       |
+| Mentoria #1: Impulso Javascript Evolution | Aula Inaugural                            |
 |                                                                                       |
 ## Módulo I - Princípios de Desenvolvimento de Software
 
