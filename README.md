@@ -18,6 +18,7 @@
 |                                                                                       |
 |**Módulo I - Princípios de Desenvolvimento de Software**                               |
 |---------------------------------------------------------------------------------------|
+|                                                                                       |
 |Introdução à Programação e Pensamento Computacional                 :heavy_check_mark: |
 |                                                                                       |
 |Introdução ao Git e ao GitHub                                       :heavy_check_mark: |
