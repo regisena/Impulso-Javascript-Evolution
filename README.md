@@ -25,17 +25,17 @@
 |Desafio de projeto                                                  :heavy_check_mark: |
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso             |
 |                                                                                       |
-## Módulo II - Fundamentos Web com HTML e CSS
-
-* ### Primeiros passos para desenvolvimento web
-
-* ### Introdução a criação de websites com HTML5 e CSS3
-
-* ### Posicionando elementos com Flexbox em CSS
-
-* ### Desafio de projeto
-* ### Recriando a página inicial do Instagram
-
+|**Módulo II - Fundamentos Web com HTML e CSS**                                         |
+|                                                                                       |                                                   
+|Primeiros passos para desenvolvimento web |
+|                                                                                       |
+|Introdução a criação de websites com HTML5 e CSS3 |
+|                                                                                       |
+|Posicionando elementos com Flexbox em CSS|
+|                                                                                       |
+|Desafio de projeto|
+|Recriando a página inicial do Instagram|
+|                                                                                       |
 ## Módulo III - Dominando a Linguagem de Programação JavaScript
 
 * ### IDE Instalação e Configuração (Visual Studio Code)
