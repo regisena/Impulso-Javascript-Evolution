@@ -13,18 +13,14 @@
 | Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
 | Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
-|---|
 |:boom:**Módulo I - Princípios de Desenvolvimento de Software**:boom:|
-|---|
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
 ||
 |Desafio de projeto:point_down:|
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark: |
-|---|
 |:boom:**Módulo II - Fundamentos Web com HTML e CSS**:boom:|
-|---|                                                  
 |Primeiros passos para desenvolvimento web |
 ||
 |Introdução a criação de websites com HTML5 e CSS3:heavy_check_mark: |
