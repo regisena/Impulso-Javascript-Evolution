@@ -20,8 +20,8 @@
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
 ||
-|Desafio de projeto:point_down: :heavy_check_mark: |
-|Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso |
+|Desafio de projeto:point_down:|
+|Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark: |
 |---|
 |**Módulo II - Fundamentos Web com HTML e CSS**|
 |---|                                                  
