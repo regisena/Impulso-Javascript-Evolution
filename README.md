@@ -16,6 +16,7 @@
 | Mentoria (Live)                                                                       |
 | Mentoria #1: Impulso Javascript Evolution | Aula Inaugural                            |
 |                                                                                       |
+|**Módulo I - Princípios de Desenvolvimento de Software**                                               |
 |**Módulo I - Princípios de Desenvolvimento de Software**                               |
 |                                                                                       |
 |Introdução à Programação e Pensamento Computacional                                    |
