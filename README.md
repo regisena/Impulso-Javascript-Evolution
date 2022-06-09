@@ -7,11 +7,11 @@
 |:boom:**Módulo 0 - Prepare-se para a Jornada**:boom:|
 |:---:|
 ||
-| Conheça as Oportunidades da DIO:heavy_check_mark: |
+| [x] Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
-| Seja Protagonista Neste Bootcamp:heavy_check_mark: |
+| [x] Seja Protagonista Neste Bootcamp:heavy_check_mark: |
 ||
-| Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
+| [x] Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
 | Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
