@@ -9,6 +9,10 @@
 
 - [x] 1-3: Unix & Bash - Part 1
 
+[link](https://www.example.com/my%20great%20page)
+
+<a href="https://www.example.com/my great page">link</a>
+
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
 
