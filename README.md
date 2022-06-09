@@ -3,6 +3,9 @@
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
+[x]
+
+- [x] 1-3: Unix & Bash - Part 1
 
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
