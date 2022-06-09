@@ -2,23 +2,15 @@
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
-
- <p>[x] Reginaldo</p>
+  
+  [x] Reginaldo
 
 - [x] Reginaldo
 
 - [x] 1-3: Unix & Bash - Part 1
 
-[link](https://www.example.com/my%20great%20page)
-
-<a href="https://www.example.com/my great page">link</a>
-
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
-
-|[ ]Conheça as Oportunidades da DIO:heavy_check_mark: |
-||
-| [x] Seja Protagonista Neste Bootcamp:heavy_check_mark: |
 ||
 |Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
