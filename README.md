@@ -7,9 +7,9 @@
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
 ||
-|Conheça as Oportunidades da DIO:heavy_check_mark: |
+|[ ]Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
-|Seja Protagonista Neste Bootcamp:heavy_check_mark: |
+| [x] Seja Protagonista Neste Bootcamp:heavy_check_mark: |
 ||
 |Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
 ||
@@ -111,6 +111,3 @@
 |Desafio de projeto:point_down:|
 |Integrando um Backend em Node.js com um Frontend em React para um E-commerce|
 |----------------------------------------------|
-
-[whatever]::
-[whatever]:whatever
