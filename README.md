@@ -9,7 +9,8 @@
 
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
-||
+|- [x] 1-3: Unix & Bash - Part 1|
+| - [x] 1-3: Unix & Bash - Part 1|
 |[ ]Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
 | [x] Seja Protagonista Neste Bootcamp:heavy_check_mark: |
