@@ -3,7 +3,7 @@
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
-[x] Reginaldo
+ [x] Reginaldo
 
 - [x] Reginaldo
 
