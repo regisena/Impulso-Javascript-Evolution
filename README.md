@@ -4,8 +4,8 @@
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 
 
-|:boom:**Módulo 0 - Prepare-se para a Jornada**:boom:|
-|:---:|
+|:boom:<center>**Módulo 0 - Prepare-se para a Jornada**</center>:boom:|
+|:---|
 ||
 | [x] Conheça as Oportunidades da DIO:heavy_check_mark: |
 ||
