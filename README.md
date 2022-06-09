@@ -15,7 +15,7 @@
 ||
 |Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
-|:boom::boom:**Módulo I - Princípios de Desenvolvimento de Software**:boom:|
+|:boom::boom:**Módulo I - Princípios de Desenvolvimento de Software**|
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
@@ -23,7 +23,7 @@
 |Desafio de projeto:point_down:|
 |Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark: |
 ||
-|:boom::boom:**Módulo II - Fundamentos Web com HTML e CSS**:boom:|
+|:boom::boom:**Módulo II - Fundamentos Web com HTML e CSS**|
 ||
 |Primeiros passos para desenvolvimento web |
 ||
@@ -34,7 +34,7 @@
 |Desafio de projeto:point_down:|
 |Recriando a página inicial do Instagram|
 ||
-|:boom::boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**:boom:|
+|:boom::boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**|
 ||
 |IDE Instalação e Configuração (Visual Studio Code)|
 ||
@@ -67,7 +67,7 @@
 |Desafio de projeto:point_down:|
 |Introdução Prática ao TypeScript|
 ||
-|:boom::boom:**Módulo IV - Front-end: Desenvolvimento Web com React**:boom:|
+|:boom::boom:**Módulo IV - Front-end: Desenvolvimento Web com React**|
 ||
 |Conhecendo os Principais Protocolos de Comunicação da Internet|
 ||
@@ -84,13 +84,13 @@
 |Desafio de projeto:point_down:|
 |Criando um front-end totalmente componentizado na prática com ReactJS|
 ||
-|:boom::boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**:boom:|
+|:boom::boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**|
 ||
 |Conceitos e melhores práticas com bancos de dados PostgreSQL|
 ||
 |Introdução ao MongoDB e Bancos de Dados NoSQL|
 ||
-|:boom::boom:**Módulo VI - Back-end: Criando API com Node.Js**:boom:|
+|:boom::boom:**Módulo VI - Back-end: Criando API com Node.Js**|
 ||
 |Instalando e Configurando seu Ambiente Node.js|
 ||
