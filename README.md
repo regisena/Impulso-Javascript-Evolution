@@ -16,7 +16,7 @@
 |Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
 # :boom:**Módulo I - Princípios de Desenvolvimento de Software**:boom:
-||
+|:---|
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
 ||
 |Introdução ao Git e ao GitHub:heavy_check_mark: |
