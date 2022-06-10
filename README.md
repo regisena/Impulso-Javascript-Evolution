@@ -37,7 +37,7 @@
 ||
 |:boom::boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**|
 ||
-|IDE Instalação e Configuração (Visual Studio Code)|
+|IDE Instalação e Configuração (Visual Studio Code):heavy_check_mark:|
 ||
 |Introdução ao JavaScript|
 ||
