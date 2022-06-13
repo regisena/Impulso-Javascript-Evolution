@@ -21,16 +21,22 @@
  */
 
 
-console.log("Reginaldo");
+//console.log("Reginaldo");
 
-/*var chances = [2,3,5]; //,3,5,8,10];
-for(var i = 0; i < chances.length; i++) {
-   chances[i] = 3 * chances[i];
+/*var chances = [2,3,5]; //,3,5,8,10];*/
+function tripleTheChances(chances){
+   /*for(var i = 0; i < chances.length; i++) {
+      chances[i] = 3 * chances[i];
+   }*/
+   console.log(chances);
+//   return chances;
 }
 
-console.log("Resultado: "+chances);*/
+//var c = [3,2,5];
+console.log(tripleTheChances(c = [2,5,10]));
 
-function vezesLetraAparece(frase, letra) {
+/*function vezesLetraAparece(frase, letra) {
+   
    var resultado = 0;
  
    for (var indice  = 0; indice  < frase.length; indice++) {
@@ -39,6 +45,6 @@ function vezesLetraAparece(frase, letra) {
      }
    }
    return resultado;
- }
+ }*/
  
- console.log(vezesLetraAparece('abcaba', 'a')); // 3
+ //console.log(vezesLetraAparece('Reginaldo Sena', 'e')); // 3
