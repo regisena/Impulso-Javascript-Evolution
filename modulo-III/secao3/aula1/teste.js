@@ -3,6 +3,12 @@
  *
  * O retorno da função é uma variável do tipo INTEGER_ARRAY.
  * A função aceita o parâmetro chances do tipo INTEGER_ARRAY.
+ * 
+ * chance[2,3,5];
+ * 2, será multiplicado por 3, resultando em: 6
+ * 3, será multiplicado por 3, resultando em: 9
+ * 5, será multiplicado por 3, resultando em: 15
+ * array[6,9,15];
  */
 
 /*
@@ -16,12 +22,23 @@
 
 
 console.log("Reginaldo");
-var chances = [2];//,3,5,8,10];
-for(var i = 0; i < chances.legth; i++) {
-   // let aux;
-   // aux = chances[i];
-   // chances[i] = aux * 3;
-   chances[i] = 3;
+
+/*var chances = [2,3,5]; //,3,5,8,10];
+for(var i = 0; i < chances.length; i++) {
+   chances[i] = 3 * chances[i];
 }
 
-console.log("Resultado: "+chances);
+console.log("Resultado: "+chances);*/
+
+function vezesLetraAparece(frase, letra) {
+   var resultado = 0;
+ 
+   for (var indice  = 0; indice  < frase.length; indice++) {
+     if(frase[indice] === letra){
+        resultado++;
+     }
+   }
+   return resultado;
+ }
+ 
+ console.log(vezesLetraAparece('abcaba', 'a')); // 3
