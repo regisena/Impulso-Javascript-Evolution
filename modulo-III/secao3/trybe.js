@@ -24,18 +24,16 @@
 //console.log("Reginaldo");
 
 /*var chances = [2,3,5]; //,3,5,8,10];*/
-function tripleTheChances(chances){
-   /*for(var i = 0; i < chances.length; i++) {
+/*function tripleTheChances(chances){
+   for(var i = 0; i < chances.length; i++) {
       chances[i] = 3 * chances[i];
-   }*/
-   console.log(chances);
-//   return chances;
-}
+   }
+   return chances;
+}*/
 
-//var c = [3,2,5];
-console.log(tripleTheChances(c = [2,5,10]));
+//console.log(tripleTheChances(c = [2,3,5,8,10]));
 
-/*function vezesLetraAparece(frase, letra) {
+function vezesLetraAparece(frase, letra) {
    
    var resultado = 0;
  
@@ -45,6 +43,6 @@ console.log(tripleTheChances(c = [2,5,10]));
      }
    }
    return resultado;
- }*/
+ }
  
- //console.log(vezesLetraAparece('Reginaldo Sena', 'e')); // 3
+ console.log(vezesLetraAparece('The Lord of The Rings', 'o')); // 3
