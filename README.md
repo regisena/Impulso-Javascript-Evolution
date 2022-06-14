@@ -84,7 +84,7 @@ Criando um front-end totalmente componentizado na prática com ReactJS
 
 :boom::boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**
 
-Conceitos e melhores práticas com bancos de dados PostgreSQL
+- [x] Conceitos e melhores práticas com bancos de dados PostgreSQL
 
 Introdução ao MongoDB e Bancos de Dados NoSQL
 
