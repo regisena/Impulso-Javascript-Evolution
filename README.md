@@ -5,8 +5,13 @@
   
 :boom::boom:**Módulo 0 - Prepare-se para a Jornada**
 
+- [x] Conheça as Oportunidades da DIO
+
+- [x] Seja Protagonista Neste Bootcamp
+
 - [x] Boas-vindas ao Impulso Javascript Evolution
-Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural
+
+Mentoria (Live) Mentoria #1: Impulso Javascript Evolution | Aula Inaugural
 
 :boom::boom:**Módulo I - Princípios de Desenvolvimento de Software**
 - [x] Introdução à Programação e Pensamento Computacional:heavy_check_mark:
