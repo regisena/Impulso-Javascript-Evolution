@@ -3,18 +3,11 @@
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
   
-  [x] Reginaldo
+:boom::boom:**Módulo 0 - Prepare-se para a Jornada**
 
-- [x] Reginaldo
-
-- [x] 1-3: Unix & Bash - Part 1
-
-|:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
-|:---|
-||
 - [x] Boas-vindas ao Impulso Javascript Evolution
-||
-|Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
+
+Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural
 ||
 |:boom::boom:**Módulo I - Princípios de Desenvolvimento de Software**|
 |Introdução à Programação e Pensamento Computacional:heavy_check_mark: |
