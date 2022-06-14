@@ -12,7 +12,7 @@
 |:boom::boom:**Módulo 0 - Prepare-se para a Jornada**|
 |:---|
 ||
-|Boas-vindas ao Impulso Javascript Evolution:heavy_check_mark: |
+- [x] Boas-vindas ao Impulso Javascript Evolution
 ||
 |Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural |
 ||
