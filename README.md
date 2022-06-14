@@ -13,7 +13,7 @@ Mentoria (Live) => Mentoria #1: Impulso Javascript Evolution - Aula Inaugural
 
 - [x] Introdução ao Git e ao GitHub
 
-- [x] Desafio de projeto:point_right:
+- [x] Desafio de projeto:
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
 :boom::boom:**Módulo II - Fundamentos Web com HTML e CSS**
@@ -24,7 +24,7 @@ Primeiros passos para desenvolvimento web
 
 Posicionando elementos com Flexbox em CSS
 
-Desafio de projeto:point_right:
+Desafio de projeto:
 Recriando a página inicial do Instagram
 
 :boom::boom:**Módulo III - Dominando a Linguagem de Programação JavaScript**
@@ -57,7 +57,7 @@ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 Desafio de código:point_right:
 Desafios intermediários Js - Impulso JavaScript Evolution
 
-Desafio de projeto:point_right:
+Desafio de projeto:
 Introdução Prática ao TypeScript
 
 :boom::boom:**Módulo IV - Front-end: Desenvolvimento Web com React**
@@ -74,7 +74,7 @@ Trabalhando com States & Effects no ReactJs
 
 Práticas avançadas em projetos com ReactJS
 
-Desafio de projeto:point_right:
+Desafio de projeto:
 Criando um front-end totalmente componentizado na prática com ReactJS
 
 :boom::boom:**Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)**
@@ -101,6 +101,6 @@ Microsserviços e Integrações com Node.js
 
 Criando uma API REST com Node.js e TypeORM
 
-Desafio de projeto:point_right:
+Desafio de projeto:
 Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 
